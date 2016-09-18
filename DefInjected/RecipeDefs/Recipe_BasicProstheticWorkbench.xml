@@ -28,5 +28,7 @@
 	<CreateWoodenFoot.description>Tailler du bois pour donner une forme de pied.</CreateWoodenFoot.description>
 	<CreateWoodenFoot.jobString>En train de créer un pied en bois</CreateWoodenFoot.jobString>
 
-
+    <CreateEarBandage.label.>Créer un pansement pour oreille</CreateEarBandage.label>
+	<CreateEarBandage.description>Fabrique un pansement pour oreille à partir de tissu.</CreateEarBandage.description>
+	<CreateEarBandage.jobString>En train de fabriquer un pansement pour oreille</CreateEarBandage.jobString>
 </LanguageData>

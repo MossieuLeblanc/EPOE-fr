@@ -11,4 +11,5 @@
    <MedicalRib.label>Côte (médicale)</MedicalRib.label>
    <DruggedRib.label>Côte (drogue)</DruggedRib.label>
    <AdrenalineRib.label>Côte (adrénaline)</AdrenalineRib.label>
+   <PainkillerRib.label>Côte (anti douleur)</PainkillerRib.label>
 </LanguageData>

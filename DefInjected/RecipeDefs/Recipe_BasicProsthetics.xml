@@ -25,5 +25,7 @@
 	<InstallPegLeg.description>Installe une jambe de bois.</InstallPegLeg.description>
 	<InstallPegLeg.jobString>En train d'installer une jambe de bois</InstallPegLeg.jobString>
 
-
+	<InstallEarBandage.label>Faire un pansement pour oreille</InstallEarBandage.label>
+    <InstallEarBandage.description>Fait un pansement pour oreille.</InstallEarBandage.description>
+	<InstallEarBandage.jobString>En train de panser une oreille</InstallEarBandage.jobString>
 </LanguageData>

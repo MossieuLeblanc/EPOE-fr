@@ -53,5 +53,7 @@
 	<CreateDruggedRib.description>Crée une côte "adrénaline" à partir de plastacier et de médicaments.</CreateDruggedRib.description>
 	<CreateDruggedRib.jobString>En train de créer une côte (adrénaline)</CreateDruggedRib.jobString>
 
-	
+	<CreatePainkillerRib.label>Créer une côte (anti douleur)</CreatePainkillerRib.label>
+	<CreatePainkillerRib.description>Crée une côte "anti douleur" à partir de plastacier et de go-juice.</CreatePainkillerRib.description>
+	<CreatePainkillerRib.jobString>En train de créer une côte (anti douleur)</CreatePainkillerRib.jobString>
 </LanguageData>

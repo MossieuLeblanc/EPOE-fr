@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<InstallNaturalHeart.label>Installer un coeur</InstallNaturalHeart.label>
+	<InstallNaturalHeart.label>	 Installer un coeur</InstallNaturalHeart.label>
 	<InstallNaturalHeart.description>Installe un coeur.</InstallNaturalHeart.description>
     <InstallNaturalHeart.jobString>En train d'installer un coeur</InstallNaturalHeart.jobString>
 
@@ -53,11 +53,11 @@
     <RemoveMechanoidBodyPart.jobString>En train d'enlever la partie mécanoïde</RemoveMechanoidBodyPart.jobString>
 
 	<Euthanize.label>Euthanasier</Euthanize.label>
-	<Euthanize.description>Euthanasie.</Euthanize.description>
+	<Euthanize.description>Euthanise.</Euthanize.description>
     <Euthanize.jobString>En train d'euthanasier</Euthanize.jobString>
 
 	<ShutDownMechanoid.label>Eteindre le mécanoïde</ShutDownMechanoid.label>
-	<ShutDownMechanoid.description>Eteints le mécanoïde.</ShutDownMechanoid.description>
+	<ShutDownMechanoid.description>Eteinds le mécanoïde.</ShutDownMechanoid.description>
     <ShutDownMechanoid.jobString>En train d'éteindre le mécanoïde</ShutDownMechanoid.jobString>
 
 </LanguageData>

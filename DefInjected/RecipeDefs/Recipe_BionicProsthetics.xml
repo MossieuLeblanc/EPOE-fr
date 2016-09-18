@@ -37,4 +37,7 @@
 	<InstallDruggedRib.description>Installe une côte (drogue).</InstallDruggedRib.description>
 	<InstallDruggedRib.jobString>En train d'installer une côte (drogue)</InstallDruggedRib.jobString>
 	
+	<InstallPainkillerRib.label>Installer une côte (anti douleur)</InstallPainkillerRib.label>
+	<InstallPainkillerRib.description>Installe une côte (anti douleur)</InstallPainkillerRib.description>
+	<InstallPainkillerRib.jobString>En train d'installer une côte (anti douleur)</InstallPainkillerRib.jobString>
 </LanguageData>
